@@ -1,3 +1,5 @@
 .venv/
 .env
 data/raw/
+*.env
+.DS_Store

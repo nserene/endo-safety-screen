@@ -1,0 +1,297 @@
+drug_name,group,source,rxcui,standard_name
+fenoprofen,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4331,fenoprofen
+flumetasone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4458,flumethasone
+promazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8742,promazine
+irinotecan,candidate,"Oskotsky et al. 2024, iScience (Table S3)",51499,irinotecan
+primaquine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8687,primaquine
+scopolamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9601,scopolamine
+zuclopenthixol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",114176,zuclopenthixol
+levonorgestrel,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6373,levonorgestrel
+flunisolide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",25120,flunisolide
+cloperastine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2104180,cloperastine
+cycloserine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3007,cycloserine
+bepridil,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1436,bepridil
+trifluoperazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10800,trifluoperazine
+medrysone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",29439,medrysone
+metolazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6916,metolazone
+iopanoic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5967,iopanoic acid
+procyclidine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8718,procyclidine
+sulfamethoxazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10180,sulfamethoxazole
+sertaconazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",36435,sertaconazole
+adipiodone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5936,iodipamide
+isoconazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",27901,isoconazole
+simvastatin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",36567,simvastatin
+fenbufen,candidate,"Oskotsky et al. 2024, iScience (Table S3)",24830,fenbufen
+sulfadiazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10171,sulfadiazine
+pyrvinium,candidate,"Oskotsky et al. 2024, iScience (Table S3)",35163,pyrvinium
+ouabain,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7762,ouabain
+tretinoin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10753,tretinoin
+apomorphine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1043,apomorphine
+remoxipride,candidate,"Oskotsky et al. 2024, iScience (Table S3)",35350,remoxipride
+valproic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",11118,valproic acid
+thiocolchicoside,candidate,"Oskotsky et al. 2024, iScience (Table S3)",38085,thiocolchicoside
+hesperetin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1314255,hesperetin
+demeclocycline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3154,demeclocycline
+methyldopa,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6876,methyldopa
+clomipramine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2597,clomipramine
+miconazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6932,miconazole
+resveratrol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1000492,resveratrol
+mesalazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",52582,mesalamine
+menadione,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6728,vitamin K3
+daunorubicin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3109,daunorubicin
+ethotoin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4136,ethotoin
+zomepirac,candidate,"Oskotsky et al. 2024, iScience (Table S3)",39994,zomepirac
+ipratropium bromide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",203212,ipratropium bromide
+rimexolone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",55681,rimexolone
+galantamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4637,galantamine
+terfenadine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",42330,terfenadine
+methazolamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6826,methazolamide
+canrenoic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",81971,canrenoic acid
+azacitidine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1251,azacitidine
+fluorometholone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4491,fluorometholone
+diltiazem,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3443,diltiazem
+felodipine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4316,felodipine
+sulfamerazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10176,sulfamerazine
+latamoxef,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7069,moxalactam
+trimipramine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10834,trimipramine
+saquinavir,candidate,"Oskotsky et al. 2024, iScience (Table S3)",83395,saquinavir
+haloperidol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5093,haloperidol
+chlorpropamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2404,chlorpropamide
+labetalol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6185,labetalol
+ifenprodil,candidate,"Oskotsky et al. 2024, iScience (Table S3)",27403,ifenprodil
+acetylsalicylic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1191,aspirin
+chlorprothixene,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2406,chlorprothixene
+pivampicillin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8372,pivampicillin
+thioridazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10502,thioridazine
+etomidate,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4177,etomidate
+tobramycin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10627,tobramycin
+sotalol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9947,sotalol
+thalidomide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10432,thalidomide
+trazodone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10737,trazodone
+cyproheptadine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3013,cyproheptadine
+phentolamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8153,phentolamine
+niclosamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7402,niclosamide
+sirolimus,candidate,"Oskotsky et al. 2024, iScience (Table S3)",35302,sirolimus
+gliclazide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4816,gliclazide
+fulvestrant,candidate,"Oskotsky et al. 2024, iScience (Table S3)",282357,fulvestrant
+oxybuprocaine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",18889,benoxinate
+metaraminol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6805,metaraminol
+mitoxantrone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7005,mitoxantrone
+piracetam,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8351,piracetam
+naloxone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7242,naloxone
+methotrexate,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6851,methotrexate
+disopyramide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3541,disopyramide
+chlorcyclizine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2354,chlorcyclizine
+monobenzone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",17145,monobenzone
+cefazolin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2180,cefazolin
+diethylcarbamazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3384,diethylcarbamazine
+sulconazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",37319,sulconazole
+griseofulvin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5021,griseofulvin
+dipyridamole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3521,dipyridamole
+clioquinol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5942,clioquinol
+dacarbazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3098,dacarbazine
+tetryzoline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",37935,tetrahydrozoline
+cefuroxime,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2194,cefuroxime
+pramocaine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",34347,pramoxine
+bisacodyl,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1596,bisacodyl
+procaine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8701,procaine
+pargyline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7930,pargyline
+carbamazepine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2002,carbamazepine
+tropicamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10869,tropicamide
+indometacin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5781,indomethacin
+diclofenac,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3355,diclofenac
+flucytosine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4451,flucytosine
+terbutaline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10368,terbutaline
+pimozide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8331,pimozide
+natamycin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7268,natamycin
+aminophenazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",695,aminopyrine
+promethazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8745,promethazine
+cyanocobalamin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",11248,vitamin B12
+amoxicillin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",723,amoxicillin
+corbadrine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",132889,levonordefrin
+cetirizine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",20610,cetirizine
+tranylcypromine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10734,tranylcypromine
+xylometazoline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",39841,xylometazoline
+propylthiouracil,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8794,propylthiouracil
+fluocinonide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4462,fluocinonide
+astemizole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",42328,astemizole
+fluspirilene,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4507,fluspirilene
+acepromazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",155,acepromazine
+roxithromycin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9478,roxithromycin
+terconazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",37806,terconazole
+azlocillin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1266,azlocillin
+oxaprozin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",32613,oxaprozin
+mebendazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6672,mebendazole
+hydralazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5470,hydralazine
+bromopride,candidate,"Oskotsky et al. 2024, iScience (Table S3)",19768,bromopride
+cinoxacin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2550,cinoxacin
+betahistine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1511,betahistine
+minaprine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",30031,minaprine
+trimetazidine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10826,trimetazidine
+berberine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1437,berberine
+digoxin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3407,digoxin
+neomycin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7299,neomycin
+ritodrine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9392,ritodrine
+estradiol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4083,estradiol
+pioglitazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",33738,pioglitazone
+nortriptyline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7531,nortriptyline
+carbachol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1999,carbachol
+risperidone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",35636,risperidone
+ganciclovir,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4678,ganciclovir
+sulfadimidine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10178,sulfamethazine
+rescinnamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9259,rescinnamine
+alfuzosin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",17300,alfuzosin
+beclometasone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1347,beclomethasone
+tolmetin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10636,tolmetin
+ivermectin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6069,ivermectin
+lomefloxacin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",28872,lomefloxacin
+levamisole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6371,levamisole
+cinchocaine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3339,dibucaine
+fluvoxamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",42355,fluvoxamine
+tolbutamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10635,tolbutamide
+lymecycline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6513,lymecycline
+benzylpenicillin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7980,penicillin G
+doxazosin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",49276,doxazosin
+difenidol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",23370,diphenidol
+testosterone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10379,testosterone
+amiodarone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",703,amiodarone
+mepyramine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9009,pyrilamine
+cefalotin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2236,cephalothin
+capsaicin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1992,capsaicin
+betaxolol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1520,betaxolol
+doxorubicin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3639,doxorubicin
+aminocaproic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",99,6-aminocaproic acid
+tyloxapol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",38998,tyloxapol
+clomifene,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2596,clomiphene
+oxybutynin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",32675,oxybutynin
+rolitetracycline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9462,rolitetracycline
+salbutamol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",435,albuterol
+prenylamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8674,prenylamine
+fluphenazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4496,fluphenazine
+paracetamol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",161,acetaminophen
+vidarabine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",11194,vidarabine
+cefixime,candidate,"Oskotsky et al. 2024, iScience (Table S3)",25033,cefixime
+glibenclamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4815,glyburide
+omeprazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7646,omeprazole
+nitrendipine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7441,nitrendipine
+prochlorperazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8704,prochlorperazine
+etofenamate,candidate,"Oskotsky et al. 2024, iScience (Table S3)",24608,etofenamate
+oxprenolol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7801,oxprenolol
+proxymetacaine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",34905,proparacaine
+amiloride,candidate,"Oskotsky et al. 2024, iScience (Table S3)",644,amiloride
+genistein,candidate,"Oskotsky et al. 2024, iScience (Table S3)",25696,genistein
+metyrapone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6923,metyrapone
+deferoxamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3131,deferoxamine
+nifedipine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7417,nifedipine
+amoxapine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",722,amoxapine
+benzonatate,candidate,"Oskotsky et al. 2024, iScience (Table S3)",18993,benzonatate
+dextromethorphan,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3289,dextromethorphan
+ioversol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",27792,ioversol
+etidronic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1356715,etidronic acid
+colchicine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2683,colchicine
+dexpanthenol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",22701,dexpanthenol
+pyrazinamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8987,pyrazinamide
+trioxysalen,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10844,trioxsalen
+mefloquine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6694,mefloquine
+nomifensine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7500,nomifensine
+progesterone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8727,progesterone
+guanfacine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",40114,guanfacine
+glipizide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4821,glipizide
+rosiglitazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",84108,rosiglitazone
+indapamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5764,indapamide
+chlorpromazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2403,chlorpromazine
+reserpine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9260,reserpine
+protriptyline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8886,protriptyline
+riboflavin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9346,riboflavin
+propafenone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8754,propafenone
+phenoxybenzamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8149,phenoxybenzamine
+repaglinide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",73044,repaglinide
+moxisylyte,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10561,moxisylyte
+chlorzoxazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2410,chlorzoxazone
+aminohippuric acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7832,4-aminohippuric acid
+acetazolamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",167,acetazolamide
+papaverine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7895,papaverine
+procainamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8700,procainamide
+imipenem,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5690,imipenem
+clozapine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2626,clozapine
+dicoumarol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1598,dicumarol
+paroxetine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",32937,paroxetine
+ranitidine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",9143,ranitidine
+estrone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4103,estrone
+nalidixic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7240,nalidixic acid
+triflusal,candidate,"Oskotsky et al. 2024, iScience (Table S3)",38655,triflusal
+prazosin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8629,prazosin
+perhexiline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8050,perhexiline
+aminophylline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",689,aminophylline
+theobromine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10437,theobromine
+carisoprodol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2101,carisoprodol
+levomepromazine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6852,methotrimeprazine
+ciclopirox,candidate,"Oskotsky et al. 2024, iScience (Table S3)",21090,ciclopirox
+fluvastatin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",41127,fluvastatin
+metformin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6809,metformin
+levocabastine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",28627,levocabastine
+benzthiazide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",19008,benzthiazide
+budesonide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",19831,budesonide
+nialamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7394,nialamide
+torasemide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",38413,torsemide
+hyoscyamine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",153970,hyoscyamine
+clotrimazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2623,clotrimazole
+pyridoxine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",684879,pyridoxine
+pentamidine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7994,pentamidine
+lisinopril,candidate,"Oskotsky et al. 2024, iScience (Table S3)",29046,lisinopril
+milrinone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",52769,milrinone
+sulfafurazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10207,sulfisoxazole
+ursodeoxycholic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",11065,ursodiol
+imipramine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5691,imipramine
+vorinostat,candidate,"Oskotsky et al. 2024, iScience (Table S3)",194337,vorinostat
+etoposide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4179,etoposide
+loperamide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6468,loperamide
+phenformin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8129,phenformin
+flufenamic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4453,flufenamic acid
+cefalexin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2231,cephalexin
+nicotinic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7393,niacin
+azathioprine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1256,azathioprine
+bezafibrate,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1525,bezafibrate
+albendazole,candidate,"Oskotsky et al. 2024, iScience (Table S3)",430,albendazole
+hydroflumethiazide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",5495,hydroflumethiazide
+lomustine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6466,lomustine
+mycophenolic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7145,mycophenolic acid
+crotamiton,candidate,"Oskotsky et al. 2024, iScience (Table S3)",21766,crotamiton
+trifluridine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10803,trifluridine
+disulfiram,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3554,disulfiram
+verteporfin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",118886,verteporfin
+troglitazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",72610,troglitazone
+flecainide,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4441,flecainide
+atropine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1223,atropine
+diflorasone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",91311,diflorasone
+metixene,candidate,"Oskotsky et al. 2024, iScience (Table S3)",29682,methixene
+estriol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",4094,estriol
+chloramphenicol,candidate,"Oskotsky et al. 2024, iScience (Table S3)",2348,chloramphenicol
+quinethazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",59743,quinethazone
+liothyronine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10814,liothyronine
+meclozine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",6676,meclizine
+nalbuphine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7238,nalbuphine
+arachidonic acid,candidate,"Oskotsky et al. 2024, iScience (Table S3)",1368624,arachidonic acid
+rifabutin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",55672,rifabutin
+ciclosporin,candidate,"Oskotsky et al. 2024, iScience (Table S3)",3008,cyclosporine
+phenindione,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8130,phenindione
+oxyphenbutazone,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7816,oxyphenbutazone
+orlistat,candidate,"Oskotsky et al. 2024, iScience (Table S3)",37925,orlistat
+oxytetracycline,candidate,"Oskotsky et al. 2024, iScience (Table S3)",7821,oxytetracycline
+prilocaine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",8686,prilocaine
+triprolidine,candidate,"Oskotsky et al. 2024, iScience (Table S3)",10849,triprolidine
+ibuprofen,standard,standard endometriosis treatment,5640,ibuprofen
+naproxen,standard,standard endometriosis treatment,7258,naproxen
+mefenamic acid,standard,standard endometriosis treatment,6693,mefenamic acid
+celecoxib,standard,standard endometriosis treatment,140587,celecoxib
+norethindrone acetate,standard,standard endometriosis treatment,31983,norethindrone acetate
+medroxyprogesterone acetate,standard,standard endometriosis treatment,1000112,medroxyprogesterone acetate
+dienogest,standard,standard endometriosis treatment,22968,dienogest
+ethinyl estradiol,standard,standard endometriosis treatment,4124,ethinyl estradiol
+leuprolide,standard,standard endometriosis treatment,42375,leuprolide
+nafarelin,standard,standard endometriosis treatment,28656,nafarelin
+elagolix,standard,standard endometriosis treatment,2049846,elagolix
+relugolix,standard,standard endometriosis treatment,2472778,relugolix
+letrozole,standard,standard endometriosis treatment,72965,letrozole
+anastrozole,standard,standard endometriosis treatment,84857,anastrozole
+danazol,standard,standard endometriosis treatment,3102,danazol
