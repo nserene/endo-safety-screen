@@ -1,0 +1,298 @@
+drug_name,group,rxcui,standard_name,query_name,total_reports,data_status
+(population),population,,,,1124641,
+fenoprofen,candidate,4331,fenoprofen,fenoprofen,2,not enough data
+flumetasone,candidate,4458,flumethasone,flumetasone,0,not enough data
+promazine,candidate,8742,promazine,promazine,0,not enough data
+irinotecan,candidate,51499,irinotecan,irinotecan,230,enough data
+primaquine,candidate,8687,primaquine,primaquine,2,not enough data
+scopolamine,candidate,9601,scopolamine,scopolamine,594,enough data
+zuclopenthixol,candidate,114176,zuclopenthixol,zuclopenthixol,0,not enough data
+levonorgestrel,candidate,6373,levonorgestrel,levonorgestrel,88504,enough data
+flunisolide,candidate,25120,flunisolide,flunisolide,18,not enough data
+cloperastine,candidate,2104180,cloperastine,cloperastine,0,not enough data
+cycloserine,candidate,3007,cycloserine,cycloserine,402,enough data
+bepridil,candidate,1436,bepridil,bepridil,0,not enough data
+trifluoperazine,candidate,10800,trifluoperazine,trifluoperazine,10,not enough data
+medrysone,candidate,29439,medrysone,medrysone,0,not enough data
+metolazone,candidate,6916,metolazone,metolazone,128,enough data
+iopanoic acid,candidate,5967,iopanoic acid,iopanoic acid,0,not enough data
+procyclidine,candidate,8718,procyclidine,procyclidine,0,not enough data
+sulfamethoxazole,candidate,10180,sulfamethoxazole,sulfamethoxazole,4157,enough data
+sertaconazole,candidate,36435,sertaconazole,sertaconazole,9,not enough data
+adipiodone,candidate,5936,iodipamide,adipiodone,0,not enough data
+isoconazole,candidate,27901,isoconazole,isoconazole,0,not enough data
+simvastatin,candidate,36567,simvastatin,simvastatin,1208,enough data
+fenbufen,candidate,24830,fenbufen,fenbufen,0,not enough data
+sulfadiazine,candidate,10171,sulfadiazine,sulfadiazine,170,enough data
+pyrvinium,candidate,35163,pyrvinium,pyrvinium,0,not enough data
+ouabain,candidate,7762,ouabain,ouabain,0,not enough data
+tretinoin,candidate,10753,tretinoin,tretinoin,1222,enough data
+apomorphine,candidate,1043,apomorphine,apomorphine,11,not enough data
+remoxipride,candidate,35350,remoxipride,remoxipride,0,not enough data
+valproic acid,candidate,11118,valproic acid,valproic acid,3067,enough data
+thiocolchicoside,candidate,38085,thiocolchicoside,thiocolchicoside,0,not enough data
+hesperetin,candidate,1314255,hesperetin,hesperetin,0,not enough data
+demeclocycline,candidate,3154,demeclocycline,demeclocycline,6,not enough data
+methyldopa,candidate,6876,methyldopa,methyldopa,949,enough data
+clomipramine,candidate,2597,clomipramine,clomipramine,294,enough data
+miconazole,candidate,6932,miconazole,miconazole,817,enough data
+resveratrol,candidate,1000492,resveratrol,resveratrol,0,not enough data
+mesalazine,candidate,52582,mesalamine,mesalamine,5581,enough data
+menadione,candidate,6728,vitamin K3,menadione,10,not enough data
+daunorubicin,candidate,3109,daunorubicin,daunorubicin,234,enough data
+ethotoin,candidate,4136,ethotoin,ethotoin,0,not enough data
+zomepirac,candidate,39994,zomepirac,zomepirac,0,not enough data
+ipratropium bromide,candidate,203212,ipratropium bromide,ipratropium bromide,899,enough data
+rimexolone,candidate,55681,rimexolone,rimexolone,0,not enough data
+galantamine,candidate,4637,galantamine,galantamine,2,not enough data
+terfenadine,candidate,42330,terfenadine,terfenadine,0,not enough data
+methazolamide,candidate,6826,methazolamide,methazolamide,10,not enough data
+canrenoic acid,candidate,81971,canrenoic acid,canrenoic acid,0,not enough data
+azacitidine,candidate,1251,azacitidine,azacitidine,432,enough data
+fluorometholone,candidate,4491,fluorometholone,fluorometholone,98,enough data
+diltiazem,candidate,3443,diltiazem,diltiazem,309,enough data
+felodipine,candidate,4316,felodipine,felodipine,70,enough data
+sulfamerazine,candidate,10176,sulfamerazine,sulfamerazine,0,not enough data
+latamoxef,candidate,7069,moxalactam,latamoxef,0,not enough data
+trimipramine,candidate,10834,trimipramine,trimipramine,75,enough data
+saquinavir,candidate,83395,saquinavir,saquinavir,0,not enough data
+haloperidol,candidate,5093,haloperidol,haloperidol,2249,enough data
+chlorpropamide,candidate,2404,chlorpropamide,chlorpropamide,0,not enough data
+labetalol,candidate,6185,labetalol,labetalol,1564,enough data
+ifenprodil,candidate,27403,ifenprodil,ifenprodil,0,not enough data
+acetylsalicylic acid,candidate,1191,aspirin,aspirin,7525,enough data
+chlorprothixene,candidate,2406,chlorprothixene,chlorprothixene,0,not enough data
+pivampicillin,candidate,8372,pivampicillin,pivampicillin,0,not enough data
+thioridazine,candidate,10502,thioridazine,thioridazine,4,not enough data
+etomidate,candidate,4177,etomidate,etomidate,134,enough data
+tobramycin,candidate,10627,tobramycin,tobramycin,3103,enough data
+sotalol,candidate,9947,sotalol,sotalol,211,enough data
+thalidomide,candidate,10432,thalidomide,thalidomide,530,enough data
+trazodone,candidate,10737,trazodone,trazodone,690,enough data
+cyproheptadine,candidate,3013,cyproheptadine,cyproheptadine,491,enough data
+phentolamine,candidate,8153,phentolamine,phentolamine,14,not enough data
+niclosamide,candidate,7402,niclosamide,niclosamide,0,not enough data
+sirolimus,candidate,35302,sirolimus,sirolimus,991,enough data
+gliclazide,candidate,4816,gliclazide,gliclazide,0,not enough data
+fulvestrant,candidate,282357,fulvestrant,fulvestrant,218,enough data
+oxybuprocaine,candidate,18889,benoxinate,oxybuprocaine,0,not enough data
+metaraminol,candidate,6805,metaraminol,metaraminol,0,not enough data
+mitoxantrone,candidate,7005,mitoxantrone,mitoxantrone,510,enough data
+piracetam,candidate,8351,piracetam,piracetam,0,not enough data
+naloxone,candidate,7242,naloxone,naloxone,2926,enough data
+methotrexate,candidate,6851,methotrexate,methotrexate,23339,enough data
+disopyramide,candidate,3541,disopyramide,disopyramide,7,not enough data
+chlorcyclizine,candidate,2354,chlorcyclizine,chlorcyclizine,0,not enough data
+monobenzone,candidate,17145,monobenzone,monobenzone,0,not enough data
+cefazolin,candidate,2180,cefazolin,cefazolin,892,enough data
+diethylcarbamazine,candidate,3384,diethylcarbamazine,diethylcarbamazine,0,not enough data
+sulconazole,candidate,37319,sulconazole,sulconazole,2,not enough data
+griseofulvin,candidate,5021,griseofulvin,griseofulvin,30,not enough data
+dipyridamole,candidate,3521,dipyridamole,dipyridamole,98,enough data
+clioquinol,candidate,5942,clioquinol,clioquinol,0,not enough data
+dacarbazine,candidate,3098,dacarbazine,dacarbazine,713,enough data
+tetryzoline,candidate,37935,tetrahydrozoline,tetrahydrozoline,8,not enough data
+cefuroxime,candidate,2194,cefuroxime,cefuroxime,1098,enough data
+pramocaine,candidate,34347,pramoxine,pramoxine,243,enough data
+bisacodyl,candidate,1596,bisacodyl,bisacodyl,399,enough data
+procaine,candidate,8701,procaine,procaine,2,not enough data
+pargyline,candidate,7930,pargyline,pargyline,0,not enough data
+carbamazepine,candidate,2002,carbamazepine,carbamazepine,5645,enough data
+tropicamide,candidate,10869,tropicamide,tropicamide,69,enough data
+indometacin,candidate,5781,indomethacin,indomethacin,664,enough data
+diclofenac,candidate,3355,diclofenac,diclofenac,5044,enough data
+flucytosine,candidate,4451,flucytosine,flucytosine,110,enough data
+terbutaline,candidate,10368,terbutaline,terbutaline,154,enough data
+pimozide,candidate,8331,pimozide,pimozide,27,not enough data
+natamycin,candidate,7268,natamycin,natamycin,54,enough data
+aminophenazone,candidate,695,aminopyrine,aminophenazone,0,not enough data
+promethazine,candidate,8745,promethazine,promethazine,1872,enough data
+cyanocobalamin,candidate,11248,vitamin B12,cyanocobalamin,913,enough data
+amoxicillin,candidate,723,amoxicillin,amoxicillin,6965,enough data
+corbadrine,candidate,132889,levonordefrin,corbadrine,0,not enough data
+cetirizine,candidate,20610,cetirizine,cetirizine,12644,enough data
+tranylcypromine,candidate,10734,tranylcypromine,tranylcypromine,33,not enough data
+xylometazoline,candidate,39841,xylometazoline,xylometazoline,39,not enough data
+propylthiouracil,candidate,8794,propylthiouracil,propylthiouracil,297,enough data
+fluocinonide,candidate,4462,fluocinonide,fluocinonide,282,enough data
+astemizole,candidate,42328,astemizole,astemizole,0,not enough data
+fluspirilene,candidate,4507,fluspirilene,fluspirilene,0,not enough data
+acepromazine,candidate,155,acepromazine,acepromazine,0,not enough data
+roxithromycin,candidate,9478,roxithromycin,roxithromycin,0,not enough data
+terconazole,candidate,37806,terconazole,terconazole,89,enough data
+azlocillin,candidate,1266,azlocillin,azlocillin,0,not enough data
+oxaprozin,candidate,32613,oxaprozin,oxaprozin,38,not enough data
+mebendazole,candidate,6672,mebendazole,mebendazole,100,enough data
+hydralazine,candidate,5470,hydralazine,hydralazine,93,enough data
+bromopride,candidate,19768,bromopride,bromopride,0,not enough data
+cinoxacin,candidate,2550,cinoxacin,cinoxacin,0,not enough data
+betahistine,candidate,1511,betahistine,betahistine,0,not enough data
+minaprine,candidate,30031,minaprine,minaprine,0,not enough data
+trimetazidine,candidate,10826,trimetazidine,trimetazidine,0,not enough data
+berberine,candidate,1437,berberine,berberine,0,not enough data
+digoxin,candidate,3407,digoxin,digoxin,983,enough data
+neomycin,candidate,7299,neomycin,neomycin,297,enough data
+ritodrine,candidate,9392,ritodrine,ritodrine,0,not enough data
+estradiol,candidate,4083,estradiol,estradiol,2266,enough data
+pioglitazone,candidate,33738,pioglitazone,pioglitazone,341,enough data
+nortriptyline,candidate,7531,nortriptyline,nortriptyline,312,enough data
+carbachol,candidate,1999,carbachol,carbachol,0,not enough data
+risperidone,candidate,35636,risperidone,risperidone,8493,enough data
+ganciclovir,candidate,4678,ganciclovir,ganciclovir,771,enough data
+sulfadimidine,candidate,10178,sulfamethazine,sulfadimidine,0,not enough data
+rescinnamine,candidate,9259,rescinnamine,rescinnamine,0,not enough data
+alfuzosin,candidate,17300,alfuzosin,alfuzosin,8,not enough data
+beclometasone,candidate,1347,beclomethasone,beclomethasone,311,enough data
+tolmetin,candidate,10636,tolmetin,tolmetin,5,not enough data
+ivermectin,candidate,6069,ivermectin,ivermectin,429,enough data
+lomefloxacin,candidate,28872,lomefloxacin,lomefloxacin,0,not enough data
+levamisole,candidate,6371,levamisole,levamisole,0,not enough data
+cinchocaine,candidate,3339,dibucaine,dibucaine,8,not enough data
+fluvoxamine,candidate,42355,fluvoxamine,fluvoxamine,276,enough data
+tolbutamide,candidate,10635,tolbutamide,tolbutamide,0,not enough data
+lymecycline,candidate,6513,lymecycline,lymecycline,0,not enough data
+benzylpenicillin,candidate,7980,penicillin G,penicillin G,228,enough data
+doxazosin,candidate,49276,doxazosin,doxazosin,284,enough data
+difenidol,candidate,23370,diphenidol,difenidol,0,not enough data
+testosterone,candidate,10379,testosterone,testosterone,714,enough data
+amiodarone,candidate,703,amiodarone,amiodarone,79,enough data
+mepyramine,candidate,9009,pyrilamine,pyrilamine,56,enough data
+cefalotin,candidate,2236,cephalothin,cefalotin,0,not enough data
+capsaicin,candidate,1992,capsaicin,capsaicin,136,enough data
+betaxolol,candidate,1520,betaxolol,betaxolol,13,not enough data
+doxorubicin,candidate,3639,doxorubicin,doxorubicin,4751,enough data
+aminocaproic acid,candidate,99,6-aminocaproic acid,aminocaproic acid,27,not enough data
+tyloxapol,candidate,38998,tyloxapol,tyloxapol,0,not enough data
+clomifene,candidate,2596,clomiphene,clomiphene,346,enough data
+oxybutynin,candidate,32675,oxybutynin,oxybutynin,680,enough data
+rolitetracycline,candidate,9462,rolitetracycline,rolitetracycline,0,not enough data
+salbutamol,candidate,435,albuterol,albuterol,13238,enough data
+prenylamine,candidate,8674,prenylamine,prenylamine,0,not enough data
+fluphenazine,candidate,4496,fluphenazine,fluphenazine,56,enough data
+paracetamol,candidate,161,acetaminophen,acetaminophen,33187,enough data
+vidarabine,candidate,11194,vidarabine,vidarabine,0,not enough data
+cefixime,candidate,25033,cefixime,cefixime,231,enough data
+glibenclamide,candidate,4815,glyburide,glyburide,193,enough data
+omeprazole,candidate,7646,omeprazole,omeprazole,13651,enough data
+nitrendipine,candidate,7441,nitrendipine,nitrendipine,0,not enough data
+prochlorperazine,candidate,8704,prochlorperazine,prochlorperazine,1152,enough data
+etofenamate,candidate,24608,etofenamate,etofenamate,0,not enough data
+oxprenolol,candidate,7801,oxprenolol,oxprenolol,0,not enough data
+proxymetacaine,candidate,34905,proparacaine,proparacaine,23,not enough data
+amiloride,candidate,644,amiloride,amiloride,12,not enough data
+genistein,candidate,25696,genistein,genistein,0,not enough data
+metyrapone,candidate,6923,metyrapone,metyrapone,117,enough data
+deferoxamine,candidate,3131,deferoxamine,deferoxamine,247,enough data
+nifedipine,candidate,7417,nifedipine,nifedipine,1958,enough data
+amoxapine,candidate,722,amoxapine,amoxapine,55,enough data
+benzonatate,candidate,18993,benzonatate,benzonatate,637,enough data
+dextromethorphan,candidate,3289,dextromethorphan,dextromethorphan,2715,enough data
+ioversol,candidate,27792,ioversol,ioversol,210,enough data
+etidronic acid,candidate,1356715,etidronic acid,etidronic acid,0,not enough data
+colchicine,candidate,2683,colchicine,colchicine,1250,enough data
+dexpanthenol,candidate,22701,dexpanthenol,dexpanthenol,1032,enough data
+pyrazinamide,candidate,8987,pyrazinamide,pyrazinamide,1382,enough data
+trioxysalen,candidate,10844,trioxsalen,trioxysalen,0,not enough data
+mefloquine,candidate,6694,mefloquine,mefloquine,18,not enough data
+nomifensine,candidate,7500,nomifensine,nomifensine,0,not enough data
+progesterone,candidate,8727,progesterone,progesterone,2055,enough data
+guanfacine,candidate,40114,guanfacine,guanfacine,845,enough data
+glipizide,candidate,4821,glipizide,glipizide,303,enough data
+rosiglitazone,candidate,84108,rosiglitazone,rosiglitazone,0,not enough data
+indapamide,candidate,5764,indapamide,indapamide,145,enough data
+chlorpromazine,candidate,2403,chlorpromazine,chlorpromazine,769,enough data
+reserpine,candidate,9260,reserpine,reserpine,0,not enough data
+protriptyline,candidate,8886,protriptyline,protriptyline,9,not enough data
+riboflavin,candidate,9346,riboflavin,riboflavin,1072,enough data
+propafenone,candidate,8754,propafenone,propafenone,91,enough data
+phenoxybenzamine,candidate,8149,phenoxybenzamine,phenoxybenzamine,2,not enough data
+repaglinide,candidate,73044,repaglinide,repaglinide,46,not enough data
+moxisylyte,candidate,10561,moxisylyte,moxisylyte,0,not enough data
+chlorzoxazone,candidate,2410,chlorzoxazone,chlorzoxazone,62,enough data
+aminohippuric acid,candidate,7832,4-aminohippuric acid,aminohippuric acid,0,not enough data
+acetazolamide,candidate,167,acetazolamide,acetazolamide,787,enough data
+papaverine,candidate,7895,papaverine,papaverine,2,not enough data
+procainamide,candidate,8700,procainamide,procainamide,39,not enough data
+imipenem,candidate,5690,imipenem,imipenem,240,enough data
+clozapine,candidate,2626,clozapine,clozapine,6388,enough data
+dicoumarol,candidate,1598,dicumarol,dicoumarol,0,not enough data
+paroxetine,candidate,32937,paroxetine,paroxetine,2853,enough data
+ranitidine,candidate,9143,ranitidine,ranitidine,4226,enough data
+estrone,candidate,4103,estrone,estrone,3,not enough data
+nalidixic acid,candidate,7240,nalidixic acid,nalidixic acid,0,not enough data
+triflusal,candidate,38655,triflusal,triflusal,0,not enough data
+prazosin,candidate,8629,prazosin,prazosin,917,enough data
+perhexiline,candidate,8050,perhexiline,perhexiline,0,not enough data
+aminophylline,candidate,689,aminophylline,aminophylline,100,enough data
+theobromine,candidate,10437,theobromine,theobromine,0,not enough data
+carisoprodol,candidate,2101,carisoprodol,carisoprodol,1012,enough data
+levomepromazine,candidate,6852,methotrimeprazine,levomepromazine,0,not enough data
+ciclopirox,candidate,21090,ciclopirox,ciclopirox,76,enough data
+fluvastatin,candidate,41127,fluvastatin,fluvastatin,70,enough data
+metformin,candidate,6809,metformin,metformin,9000,enough data
+levocabastine,candidate,28627,levocabastine,levocabastine,0,not enough data
+benzthiazide,candidate,19008,benzthiazide,benzthiazide,0,not enough data
+budesonide,candidate,19831,budesonide,budesonide,6619,enough data
+nialamide,candidate,7394,nialamide,nialamide,0,not enough data
+torasemide,candidate,38413,torsemide,torsemide,323,enough data
+hyoscyamine,candidate,153970,hyoscyamine,hyoscyamine,887,enough data
+clotrimazole,candidate,2623,clotrimazole,clotrimazole,675,enough data
+pyridoxine,candidate,684879,pyridoxine,pyridoxine,348,enough data
+pentamidine,candidate,7994,pentamidine,pentamidine,67,enough data
+lisinopril,candidate,29046,lisinopril,lisinopril,3170,enough data
+milrinone,candidate,52769,milrinone,milrinone,17,not enough data
+sulfafurazole,candidate,10207,sulfisoxazole,sulfafurazole,0,not enough data
+ursodeoxycholic acid,candidate,11065,ursodiol,ursodiol,1416,enough data
+imipramine,candidate,5691,imipramine,imipramine,26,not enough data
+vorinostat,candidate,194337,vorinostat,vorinostat,61,enough data
+etoposide,candidate,4179,etoposide,etoposide,5190,enough data
+loperamide,candidate,6468,loperamide,loperamide,1310,enough data
+phenformin,candidate,8129,phenformin,phenformin,0,not enough data
+flufenamic acid,candidate,4453,flufenamic acid,flufenamic acid,0,not enough data
+cefalexin,candidate,2231,cephalexin,cephalexin,1378,enough data
+nicotinic acid,candidate,7393,niacin,niacin,158,enough data
+azathioprine,candidate,1256,azathioprine,azathioprine,9896,enough data
+bezafibrate,candidate,1525,bezafibrate,bezafibrate,0,not enough data
+albendazole,candidate,430,albendazole,albendazole,199,enough data
+hydroflumethiazide,candidate,5495,hydroflumethiazide,hydroflumethiazide,0,not enough data
+lomustine,candidate,6466,lomustine,lomustine,166,enough data
+mycophenolic acid,candidate,7145,mycophenolic acid,mycophenolic acid,2000,enough data
+crotamiton,candidate,21766,crotamiton,crotamiton,25,not enough data
+trifluridine,candidate,10803,trifluridine,trifluridine,66,enough data
+disulfiram,candidate,3554,disulfiram,disulfiram,74,enough data
+verteporfin,candidate,118886,verteporfin,verteporfin,24,not enough data
+troglitazone,candidate,72610,troglitazone,troglitazone,0,not enough data
+flecainide,candidate,4441,flecainide,flecainide,101,enough data
+atropine,candidate,1223,atropine,atropine,971,enough data
+diflorasone,candidate,91311,diflorasone,diflorasone,6,not enough data
+metixene,candidate,29682,methixene,metixene,0,not enough data
+estriol,candidate,4094,estriol,estriol,17,not enough data
+chloramphenicol,candidate,2348,chloramphenicol,chloramphenicol,1,not enough data
+quinethazone,candidate,59743,quinethazone,quinethazone,0,not enough data
+liothyronine,candidate,10814,liothyronine,liothyronine,313,enough data
+meclozine,candidate,6676,meclizine,meclizine,570,enough data
+nalbuphine,candidate,7238,nalbuphine,nalbuphine,32,not enough data
+arachidonic acid,candidate,1368624,arachidonic acid,arachidonic acid,0,not enough data
+rifabutin,candidate,55672,rifabutin,rifabutin,212,enough data
+ciclosporin,candidate,3008,cyclosporine,cyclosporine,5490,enough data
+phenindione,candidate,8130,phenindione,phenindione,0,not enough data
+oxyphenbutazone,candidate,7816,oxyphenbutazone,oxyphenbutazone,0,not enough data
+orlistat,candidate,37925,orlistat,orlistat,2690,enough data
+oxytetracycline,candidate,7821,oxytetracycline,oxytetracycline,0,not enough data
+prilocaine,candidate,8686,prilocaine,prilocaine,86,enough data
+triprolidine,candidate,10849,triprolidine,triprolidine,1,not enough data
+ibuprofen,standard,5640,ibuprofen,ibuprofen,25500,enough data
+naproxen,standard,7258,naproxen,naproxen,9117,enough data
+mefenamic acid,standard,6693,mefenamic acid,mefenamic acid,397,enough data
+celecoxib,standard,140587,celecoxib,celecoxib,2937,enough data
+norethindrone acetate,standard,31983,norethindrone acetate,norethindrone acetate,3323,enough data
+medroxyprogesterone acetate,standard,1000112,medroxyprogesterone acetate,medroxyprogesterone acetate,5571,enough data
+dienogest,standard,22968,dienogest,dienogest,91,enough data
+ethinyl estradiol,standard,4124,ethinyl estradiol,ethinyl estradiol,38310,enough data
+leuprolide,standard,42375,leuprolide,leuprolide,3396,enough data
+nafarelin,standard,28656,nafarelin,nafarelin,100,enough data
+elagolix,standard,2049846,elagolix,elagolix,686,enough data
+relugolix,standard,2472778,relugolix,relugolix,191,enough data
+letrozole,standard,72965,letrozole,letrozole,1105,enough data
+anastrozole,standard,84857,anastrozole,anastrozole,265,enough data
+danazol,standard,3102,danazol,danazol,151,enough data
