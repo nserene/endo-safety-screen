@@ -25,3 +25,9 @@
   - HYPERTENSION (6,677): high blood pressure from years of treatment raises the risk of stroke and heart disease later in life.
   - ABORTION SPONTANEOUS (14,223): many patients are of childbearing age or trying to conceive, so a drug linked to miscarriage matters greatly.
   - MATERNAL EXPOSURE DURING PREGNANCY (28,609): it flags drugs often taken during pregnancy, where safety for the baby matters. This replaces the suggested FOETAL EXPOSURE DURING PREGNANCY (only 414 reports), because FAERS uses the "foetal" term for reports about the baby and the "maternal" term for reports about the woman, who is the patient in this population.
+- The Benjamini-Hochberg correction covers only drugs with enough data (65,063 drug-side effect pairs), because drugs with under 50 reports are not ranked, and including them would make the correction stricter for no benefit.
+- Positive controls (well-known side effects that the method should find): all 4 are flagged as signals and stay significant after Benjamini-Hochberg correction, so the method detects known side effects.
+  - Ethinyl estradiol + DEEP VEIN THROMBOSIS: 4,733 reports, ROR 67.9 (95% CI 64.5–71.5), signal.
+  - Ethinyl estradiol + PULMONARY EMBOLISM: 6,185 reports, ROR 52.0 (95% CI 49.9–54.2), signal.
+  - Leuprolide + HOT FLUSH: 661 reports, ROR 80.3 (95% CI 73.3–88.0), signal.
+  - Elagolix + HOT FLUSH: 89 reports, ROR 42.4 (95% CI 33.9–53.1), signal.
