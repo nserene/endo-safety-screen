@@ -12,3 +12,16 @@
 - The estradiol search excludes reports with ethinyl estradiol, because searching "estradiol" also matches "ethinyl estradiol" (a different drug in most birth-control pills) and inflated estradiol from 2,266 to 40,576 reports.
 - Headline number: 1,124,641 FAERS reports for female patients aged 12–35 (from scripts/fetch_counts.py, saved in data/clean/drug_totals.csv).
 - Drugs with under 50 reports are labelled "not enough data", because with so few reports a side-effect signal can appear or vanish by chance; this applies to 142 candidates (98 with zero reports, 44 with 1–49) and no standard drugs, leaving 154 drugs with enough data (full list in data/clean/not_enough_data.csv).
+- Priority side effects, chosen before seeing any drug results so they cannot be cherry-picked. These 12 exact MedDRA preferred terms matter for years of use by young women, and none is a symptom of endometriosis itself (counts are reports in the population of 1,124,641):
+  - DEEP VEIN THROMBOSIS (6,983): blood clots are the best-known serious risk of hormonal treatments such as ethinyl estradiol, and a lifetime risk adds up over years of use.
+  - PULMONARY EMBOLISM (10,195): a clot that travels to the lungs can be fatal, and it is the most dangerous result of the same clotting risk.
+  - OSTEOPOROSIS (870): drugs that lower estrogen (like leuprolide and elagolix) thin the bones, and losing bone before age 30 means a lower peak bone mass for life.
+  - BONE DENSITY DECREASED (645): it catches early bone loss that is reported before osteoporosis is diagnosed.
+  - DEPRESSION (20,329): mood changes are a common reason young women stop hormonal treatments; depression is also more common with chronic pain, which is why it is compared against other drugs, not counted alone.
+  - SUICIDAL IDEATION (10,995): it is the most serious form of mood side effect, and teenagers and young adults are the age group most at risk.
+  - ANXIETY (27,994): it is a frequent mood side effect of hormonal drugs and affects daily life over years of treatment.
+  - HEPATOTOXICITY (1,396): liver damage builds up with long-term use, and several candidate drugs are known to strain the liver.
+  - DRUG-INDUCED LIVER INJURY (2,298): it is the other term reporters use for liver damage, so both terms are needed to catch it.
+  - HYPERTENSION (6,677): high blood pressure from years of treatment raises the risk of stroke and heart disease later in life.
+  - ABORTION SPONTANEOUS (14,223): many patients are of childbearing age or trying to conceive, so a drug linked to miscarriage matters greatly.
+  - MATERNAL EXPOSURE DURING PREGNANCY (28,609): it flags drugs often taken during pregnancy, where safety for the baby matters. This replaces the suggested FOETAL EXPOSURE DURING PREGNANCY (only 414 reports), because FAERS uses the "foetal" term for reports about the baby and the "maternal" term for reports about the woman, who is the patient in this population.
