@@ -31,3 +31,26 @@
   - Ethinyl estradiol + PULMONARY EMBOLISM: 6,185 reports, ROR 52.0 (95% CI 49.9–54.2), signal.
   - Leuprolide + HOT FLUSH: 661 reports, ROR 80.3 (95% CI 73.3–88.0), signal.
   - Elagolix + HOT FLUSH: 89 reports, ROR 42.4 (95% CI 33.9–53.1), signal.
+- Ranking order: drugs are sorted by priority signals after Benjamini-Hochberg correction first, then before correction, then by total reports (more first), because the corrected count is the stricter test and a clean result backed by more reports is better supported. 154 drugs are ranked (139 candidates, 15 standard); 25 have zero priority signals after correction.
+- Top 15 review (first-pass notes by Claude; check prices and usage yourself before citing them). Question for each: is it already widely used by young women, and is it cheap and generic?
+  - 1 Tobramycin (3,103 reports, 0 signals): antibiotic, generic; used long-term by young women only as an inhaled drug for cystic fibrosis (expensive) or briefly as cheap eye drops; it is not absorbed when swallowed, so it is not a practical endometriosis drug.
+  - 2 Orlistat (2,690, 0): weight-loss drug sold cheaply over the counter (Alli) and used by many young women; it works inside the gut and is barely absorbed, which likely explains its clean profile.
+  - 3 Colchicine (1,250, 0): cheap generic for gout and inflammatory conditions; used long-term by young women with familial Mediterranean fever or pericarditis, but overdose is dangerous because the safe dose range is narrow.
+  - 4 Miconazole (817, 0): cheap generic antifungal, used very widely by young women as a vaginal or skin cream; applied locally, so little reaches the bloodstream.
+  - 5 Acetazolamide (787, 0): cheap generic; already taken for years by young women with idiopathic intracranial hypertension (a condition mostly of young women), so it is the strongest fit for both questions.
+  - 6 Azacitidine (432, 0): cancer chemotherapy, expensive and toxic; not suitable for long-term use, and its reports come from people with serious illness.
+  - 7 Ivermectin (429, 0): cheap generic antiparasitic, usually taken as a short course or as a rosacea cream; well tolerated, but there is no experience with years of daily use.
+  - 8 Beclometasone (311, 0): inhaled steroid for asthma, widely used by young women for years; generic in many countries but not cheap in the US; inhaled, so little reaches the rest of the body.
+  - 9 Deferoxamine (247, 0): generic iron-removing drug, used for years by young people with thalassaemia, but it needs long infusions under the skin, so it is impractical.
+  - 10 Irinotecan (230, 0): cancer chemotherapy, toxic; not suitable.
+  - 11 Fulvestrant (218, 0): breast-cancer drug that blocks estrogen, which fits endometriosis biology; generic but expensive monthly injections, rarely used in young women; its estrogen-blocking could cause bone loss that 218 reports are too few to detect.
+  - 12 Capsaicin (136, 0): cheap over-the-counter cream or patch for pain; applied to skin, so little reaches the bloodstream.
+  - 13 Flecainide (101, 0): cheap generic heart-rhythm drug, used by some young women with fast heart rhythms; it can cause dangerous rhythms in people with heart disease, so it is not for broad use.
+  - 14 Nafarelin (100, 0): a standard endometriosis treatment (GnRH nasal spray), brand-only and expensive; its zero signals contrast with leuprolide and elagolix (bone and mood signals), but 100 reports give little power to detect them.
+  - 15 Dipyridamole (98, 0): cheap generic blood thinner, mostly used by older people after stroke; it may worsen heavy periods, which matters in endometriosis.
+- Observations on the ranking:
+  - Fewer reports mean less power to detect a signal, so small drugs rise to the top (median 311 reports in the top 15 vs 675 for the rest); zero signals is best supported for tobramycin, orlistat and colchicine (1,000+ reports each).
+  - Large, widely used drugs have the opposite problem: ibuprofen (25,500 reports, rank 146) and ethinyl estradiol (38,310, rank 97) show many signals partly because enough reports exist to detect even small differences.
+  - Several top drugs are local (creams, inhalers, gut-only, eye drops), so their clean profiles reflect low exposure in the body; they would also be unlikely to reach endometriosis lesions in those forms.
+  - Cancer drugs (azacitidine, irinotecan, fulvestrant) are not realistic options for years of use, whatever their signal count.
+  - Acetazolamide is the candidate that best meets all three tests: zero priority signals, cheap and generic, and already used long-term by young women.

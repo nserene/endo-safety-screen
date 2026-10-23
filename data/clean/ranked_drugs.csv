@@ -1,0 +1,297 @@
+rank,drug_name,group,total_reports,status,priority_signals,priority_signals_bh,signal_side_effects_bh
+1,tobramycin,candidate,3103,enough data,0,0,
+2,orlistat,candidate,2690,enough data,0,0,
+3,colchicine,candidate,1250,enough data,0,0,
+4,miconazole,candidate,817,enough data,0,0,
+5,acetazolamide,candidate,787,enough data,0,0,
+6,azacitidine,candidate,432,enough data,0,0,
+7,ivermectin,candidate,429,enough data,0,0,
+8,beclometasone,candidate,311,enough data,0,0,
+9,deferoxamine,candidate,247,enough data,0,0,
+10,irinotecan,candidate,230,enough data,0,0,
+11,fulvestrant,candidate,218,enough data,0,0,
+12,capsaicin,candidate,136,enough data,0,0,
+13,flecainide,candidate,101,enough data,0,0,
+14,nafarelin,standard,100,enough data,0,0,
+15,dipyridamole,candidate,98,enough data,0,0,
+16,prilocaine,candidate,86,enough data,0,0,
+17,amiodarone,candidate,79,enough data,0,0,
+18,tropicamide,candidate,69,enough data,0,0,
+19,trifluridine,candidate,66,enough data,0,0,
+20,vorinostat,candidate,61,enough data,0,0,
+21,mepyramine,candidate,56,enough data,0,0,
+22,fluphenazine,candidate,56,enough data,0,0,
+23,amoxapine,candidate,55,enough data,0,0,
+24,fluocinonide,candidate,282,enough data,1,0,
+25,danazol,standard,151,enough data,2,0,
+26,loperamide,candidate,1310,enough data,1,1,ANXIETY
+27,mitoxantrone,candidate,510,enough data,1,1,HEPATOTOXICITY
+28,pioglitazone,candidate,341,enough data,1,1,PULMONARY EMBOLISM
+29,glipizide,candidate,303,enough data,1,1,ANXIETY
+30,anastrozole,standard,265,enough data,1,1,DEEP VEIN THROMBOSIS
+31,imipenem,candidate,240,enough data,1,1,DRUG-INDUCED LIVER INJURY
+32,cefixime,candidate,231,enough data,1,1,MATERNAL EXPOSURE DURING PREGNANCY
+33,rifabutin,candidate,212,enough data,1,1,HEPATOTOXICITY
+34,sotalol,candidate,211,enough data,1,1,MATERNAL EXPOSURE DURING PREGNANCY
+35,ioversol,candidate,210,enough data,1,1,HYPERTENSION
+36,lomustine,candidate,166,enough data,1,1,HEPATOTOXICITY
+37,indapamide,candidate,145,enough data,1,1,HYPERTENSION
+38,metolazone,candidate,128,enough data,1,1,HYPERTENSION
+39,flucytosine,candidate,110,enough data,1,1,DRUG-INDUCED LIVER INJURY
+40,aminophylline,candidate,100,enough data,1,1,SUICIDAL IDEATION
+41,propafenone,candidate,91,enough data,1,1,ABORTION SPONTANEOUS
+42,ciclopirox,candidate,76,enough data,1,1,PULMONARY EMBOLISM
+43,disulfiram,candidate,74,enough data,1,1,DRUG-INDUCED LIVER INJURY
+44,fluvastatin,candidate,70,enough data,1,1,OSTEOPOROSIS
+45,pentamidine,candidate,67,enough data,1,1,SUICIDAL IDEATION
+46,natamycin,candidate,54,enough data,1,1,ANXIETY
+47,digoxin,candidate,983,enough data,2,1,MATERNAL EXPOSURE DURING PREGNANCY
+48,clomifene,candidate,346,enough data,2,1,ABORTION SPONTANEOUS
+49,daunorubicin,candidate,234,enough data,2,1,HEPATOTOXICITY
+50,terbutaline,candidate,154,enough data,2,1,ANXIETY
+51,trimipramine,candidate,75,enough data,2,1,DEPRESSION
+52,fluvoxamine,candidate,276,enough data,3,1,ANXIETY
+53,levonorgestrel,candidate,88504,enough data,2,2,DEPRESSION; ANXIETY
+54,clozapine,candidate,6388,enough data,2,2,SUICIDAL IDEATION; HYPERTENSION
+55,ursodeoxycholic acid,candidate,1416,enough data,2,2,DRUG-INDUCED LIVER INJURY; MATERNAL EXPOSURE DURING PREGNANCY
+56,pyrazinamide,candidate,1382,enough data,2,2,DRUG-INDUCED LIVER INJURY; HEPATOTOXICITY
+57,sirolimus,candidate,991,enough data,2,2,HYPERTENSION; DRUG-INDUCED LIVER INJURY
+58,testosterone,candidate,714,enough data,2,2,SUICIDAL IDEATION; PULMONARY EMBOLISM
+59,dacarbazine,candidate,713,enough data,2,2,HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY
+60,thalidomide,candidate,530,enough data,2,2,OSTEOPOROSIS; PULMONARY EMBOLISM
+61,cyproheptadine,candidate,491,enough data,2,2,HYPERTENSION; DEPRESSION
+62,cycloserine,candidate,402,enough data,2,2,HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY
+63,mefenamic acid,standard,397,enough data,2,2,DRUG-INDUCED LIVER INJURY; SUICIDAL IDEATION
+64,torasemide,candidate,323,enough data,2,2,DEEP VEIN THROMBOSIS; MATERNAL EXPOSURE DURING PREGNANCY
+65,neomycin,candidate,297,enough data,2,2,HYPERTENSION; DRUG-INDUCED LIVER INJURY
+66,glibenclamide,candidate,193,enough data,2,2,ANXIETY; MATERNAL EXPOSURE DURING PREGNANCY
+67,etomidate,candidate,134,enough data,2,2,HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY
+68,metyrapone,candidate,117,enough data,2,2,MATERNAL EXPOSURE DURING PREGNANCY; HYPERTENSION
+69,mebendazole,candidate,100,enough data,2,2,ABORTION SPONTANEOUS; ANXIETY
+70,fluorometholone,candidate,98,enough data,2,2,MATERNAL EXPOSURE DURING PREGNANCY; DEPRESSION
+71,hydralazine,candidate,93,enough data,2,2,MATERNAL EXPOSURE DURING PREGNANCY; DEPRESSION
+72,dienogest,standard,91,enough data,2,2,PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS
+73,felodipine,candidate,70,enough data,2,2,HYPERTENSION; PULMONARY EMBOLISM
+74,doxorubicin,candidate,4751,enough data,3,2,HEPATOTOXICITY; MATERNAL EXPOSURE DURING PREGNANCY
+75,ganciclovir,candidate,771,enough data,3,2,HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY
+76,clomipramine,candidate,294,enough data,3,2,SUICIDAL IDEATION; ANXIETY
+77,doxazosin,candidate,284,enough data,3,2,HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY
+78,pramocaine,candidate,243,enough data,3,2,DRUG-INDUCED LIVER INJURY; DEEP VEIN THROMBOSIS
+79,benzylpenicillin,candidate,228,enough data,3,2,HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY
+80,albendazole,candidate,199,enough data,3,2,DRUG-INDUCED LIVER INJURY; ABORTION SPONTANEOUS
+81,valproic acid,candidate,3067,enough data,4,2,HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY
+82,etoposide,candidate,5190,enough data,3,3,HEPATOTOXICITY; OSTEOPOROSIS; HYPERTENSION
+83,dextromethorphan,candidate,2715,enough data,3,3,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY
+84,labetalol,candidate,1564,enough data,3,3,MATERNAL EXPOSURE DURING PREGNANCY; HYPERTENSION; DRUG-INDUCED LIVER INJURY
+85,prazosin,candidate,917,enough data,3,3,SUICIDAL IDEATION; DEPRESSION; ANXIETY
+86,guanfacine,candidate,845,enough data,3,3,HYPERTENSION; SUICIDAL IDEATION; DEPRESSION
+87,benzonatate,candidate,637,enough data,3,3,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY
+88,pyridoxine,candidate,348,enough data,3,3,MATERNAL EXPOSURE DURING PREGNANCY; ABORTION SPONTANEOUS; ANXIETY
+89,nortriptyline,candidate,312,enough data,3,3,HYPERTENSION; SUICIDAL IDEATION; DEPRESSION
+90,diltiazem,candidate,309,enough data,3,3,DEEP VEIN THROMBOSIS; HYPERTENSION; PULMONARY EMBOLISM
+91,relugolix,standard,191,enough data,3,3,DEEP VEIN THROMBOSIS; SUICIDAL IDEATION; PULMONARY EMBOLISM
+92,sulfadiazine,candidate,170,enough data,3,3,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY
+93,chlorzoxazone,candidate,62,enough data,3,3,PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS; ANXIETY
+94,budesonide,candidate,6619,enough data,4,3,HYPERTENSION; ANXIETY; MATERNAL EXPOSURE DURING PREGNANCY
+95,mesalazine,candidate,5581,enough data,5,3,HEPATOTOXICITY; ABORTION SPONTANEOUS; ANXIETY
+96,letrozole,standard,1105,enough data,5,3,DRUG-INDUCED LIVER INJURY; HEPATOTOXICITY; ABORTION SPONTANEOUS
+97,ethinyl estradiol,standard,38310,enough data,4,4,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; DEPRESSION
+98,ciclosporin,candidate,5490,enough data,4,4,HEPATOTOXICITY; OSTEOPOROSIS; HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY
+99,mycophenolic acid,candidate,2000,enough data,4,4,OSTEOPOROSIS; HYPERTENSION; ABORTION SPONTANEOUS; MATERNAL EXPOSURE DURING PREGNANCY
+100,nifedipine,candidate,1958,enough data,4,4,MATERNAL EXPOSURE DURING PREGNANCY; HYPERTENSION; HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY
+101,methyldopa,candidate,949,enough data,4,4,DRUG-INDUCED LIVER INJURY; MATERNAL EXPOSURE DURING PREGNANCY; HYPERTENSION; ABORTION SPONTANEOUS
+102,ipratropium bromide,candidate,899,enough data,4,4,HYPERTENSION; PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS; ANXIETY
+103,cefazolin,candidate,892,enough data,4,4,DRUG-INDUCED LIVER INJURY; DEEP VEIN THROMBOSIS; MATERNAL EXPOSURE DURING PREGNANCY; HYPERTENSION
+104,hyoscyamine,candidate,887,enough data,4,4,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; DEPRESSION
+105,chlorpromazine,candidate,769,enough data,4,4,DRUG-INDUCED LIVER INJURY; DEPRESSION; SUICIDAL IDEATION; MATERNAL EXPOSURE DURING PREGNANCY
+106,oxybutynin,candidate,680,enough data,4,4,DEEP VEIN THROMBOSIS; HYPERTENSION; DEPRESSION; ANXIETY
+107,clotrimazole,candidate,675,enough data,4,4,DRUG-INDUCED LIVER INJURY; DEEP VEIN THROMBOSIS; ABORTION SPONTANEOUS; MATERNAL EXPOSURE DURING PREGNANCY
+108,scopolamine,candidate,594,enough data,4,4,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; SUICIDAL IDEATION; ANXIETY
+109,meclozine,candidate,570,enough data,4,4,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; DEPRESSION
+110,terconazole,candidate,89,enough data,4,4,PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS; DEPRESSION; ANXIETY
+111,indometacin,candidate,664,enough data,5,4,PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS; MATERNAL EXPOSURE DURING PREGNANCY; ANXIETY
+112,bisacodyl,candidate,399,enough data,5,4,BONE DENSITY DECREASED; HYPERTENSION; PULMONARY EMBOLISM; SUICIDAL IDEATION
+113,methotrexate,candidate,23339,enough data,5,5,OSTEOPOROSIS; HEPATOTOXICITY; BONE DENSITY DECREASED; DRUG-INDUCED LIVER INJURY; HYPERTENSION
+114,risperidone,candidate,8493,enough data,5,5,SUICIDAL IDEATION; DEPRESSION; PULMONARY EMBOLISM; ANXIETY; HYPERTENSION
+115,diclofenac,candidate,5044,enough data,5,5,OSTEOPOROSIS; DEEP VEIN THROMBOSIS; HYPERTENSION; PULMONARY EMBOLISM; DRUG-INDUCED LIVER INJURY
+116,lisinopril,candidate,3170,enough data,5,5,HYPERTENSION; DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; DEPRESSION
+117,paroxetine,candidate,2853,enough data,5,5,SUICIDAL IDEATION; DEPRESSION; ANXIETY; HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY
+118,estradiol,candidate,2266,enough data,5,5,BONE DENSITY DECREASED; DRUG-INDUCED LIVER INJURY; HEPATOTOXICITY; OSTEOPOROSIS; DEPRESSION
+119,progesterone,candidate,2055,enough data,5,5,MATERNAL EXPOSURE DURING PREGNANCY; ABORTION SPONTANEOUS; HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY; ANXIETY
+120,riboflavin,candidate,1072,enough data,5,5,BONE DENSITY DECREASED; DEPRESSION; HYPERTENSION; ANXIETY; SUICIDAL IDEATION
+121,dexpanthenol,candidate,1032,enough data,5,5,BONE DENSITY DECREASED; DEPRESSION; HYPERTENSION; ANXIETY; SUICIDAL IDEATION
+122,trazodone,candidate,690,enough data,5,5,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; DEPRESSION; SUICIDAL IDEATION; ANXIETY
+123,elagolix,standard,686,enough data,5,5,BONE DENSITY DECREASED; SUICIDAL IDEATION; DEPRESSION; ANXIETY; MATERNAL EXPOSURE DURING PREGNANCY
+124,propylthiouracil,candidate,297,enough data,5,5,DRUG-INDUCED LIVER INJURY; HEPATOTOXICITY; MATERNAL EXPOSURE DURING PREGNANCY; DEEP VEIN THROMBOSIS; ABORTION SPONTANEOUS
+125,nicotinic acid,candidate,158,enough data,5,5,HEPATOTOXICITY; SUICIDAL IDEATION; DEPRESSION; ANXIETY; MATERNAL EXPOSURE DURING PREGNANCY
+126,haloperidol,candidate,2249,enough data,6,5,SUICIDAL IDEATION; PULMONARY EMBOLISM; HEPATOTOXICITY; HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY
+127,promethazine,candidate,1872,enough data,6,5,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; HYPERTENSION; DEPRESSION
+128,atropine,candidate,971,enough data,6,5,DEEP VEIN THROMBOSIS; DRUG-INDUCED LIVER INJURY; HYPERTENSION; PULMONARY EMBOLISM; ANXIETY
+129,liothyronine,candidate,313,enough data,6,5,DEEP VEIN THROMBOSIS; DEPRESSION; SUICIDAL IDEATION; PULMONARY EMBOLISM; ANXIETY
+130,salbutamol,candidate,13238,enough data,6,6,PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS; ANXIETY; DEPRESSION; HYPERTENSION; SUICIDAL IDEATION
+131,azathioprine,candidate,9896,enough data,6,6,OSTEOPOROSIS; HEPATOTOXICITY; MATERNAL EXPOSURE DURING PREGNANCY; DRUG-INDUCED LIVER INJURY; HYPERTENSION; ABORTION SPONTANEOUS
+132,leuprolide,standard,3396,enough data,6,6,OSTEOPOROSIS; BONE DENSITY DECREASED; DEPRESSION; DRUG-INDUCED LIVER INJURY; SUICIDAL IDEATION; ANXIETY
+133,norethindrone acetate,standard,3323,enough data,6,6,BONE DENSITY DECREASED; DEPRESSION; SUICIDAL IDEATION; PULMONARY EMBOLISM; ANXIETY; DEEP VEIN THROMBOSIS
+134,naloxone,candidate,2926,enough data,6,6,MATERNAL EXPOSURE DURING PREGNANCY; HEPATOTOXICITY; ABORTION SPONTANEOUS; ANXIETY; DEPRESSION; SUICIDAL IDEATION
+135,simvastatin,candidate,1208,enough data,6,6,OSTEOPOROSIS; PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS; HYPERTENSION; DEPRESSION; ANXIETY
+136,prochlorperazine,candidate,1152,enough data,6,6,SUICIDAL IDEATION; MATERNAL EXPOSURE DURING PREGNANCY; PULMONARY EMBOLISM; DEEP VEIN THROMBOSIS; ABORTION SPONTANEOUS; ANXIETY
+137,carisoprodol,candidate,1012,enough data,6,6,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; SUICIDAL IDEATION; HYPERTENSION; DEPRESSION
+138,acetylsalicylic acid,candidate,7525,enough data,7,6,MATERNAL EXPOSURE DURING PREGNANCY; DEEP VEIN THROMBOSIS; HYPERTENSION; PULMONARY EMBOLISM; ABORTION SPONTANEOUS; ANXIETY
+139,ranitidine,candidate,4226,enough data,7,6,OSTEOPOROSIS; HYPERTENSION; DEEP VEIN THROMBOSIS; ANXIETY; DEPRESSION; MATERNAL EXPOSURE DURING PREGNANCY
+140,naproxen,standard,9117,enough data,7,7,BONE DENSITY DECREASED; DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; HYPERTENSION; DRUG-INDUCED LIVER INJURY; DEPRESSION
+141,celecoxib,standard,2937,enough data,7,7,DEEP VEIN THROMBOSIS; HYPERTENSION; DRUG-INDUCED LIVER INJURY; PULMONARY EMBOLISM; OSTEOPOROSIS; ANXIETY; DEPRESSION
+142,cefalexin,candidate,1378,enough data,7,7,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; OSTEOPOROSIS; ANXIETY; HYPERTENSION; DEPRESSION; MATERNAL EXPOSURE DURING PREGNANCY
+143,cefuroxime,candidate,1098,enough data,7,7,DRUG-INDUCED LIVER INJURY; HEPATOTOXICITY; PULMONARY EMBOLISM; MATERNAL EXPOSURE DURING PREGNANCY; HYPERTENSION; DEEP VEIN THROMBOSIS; ABORTION SPONTANEOUS
+144,paracetamol,candidate,33187,enough data,8,7,HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY; DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; HYPERTENSION; ANXIETY; DEPRESSION
+145,sulfamethoxazole,candidate,4157,enough data,8,7,OSTEOPOROSIS; DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; HEPATOTOXICITY; DRUG-INDUCED LIVER INJURY; HYPERTENSION; ANXIETY
+146,ibuprofen,standard,25500,enough data,8,8,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ANXIETY; DRUG-INDUCED LIVER INJURY; DEPRESSION; HEPATOTOXICITY; HYPERTENSION; SUICIDAL IDEATION
+147,metformin,candidate,9000,enough data,8,8,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY; HEPATOTOXICITY; ANXIETY; DEPRESSION; SUICIDAL IDEATION
+148,amoxicillin,candidate,6965,enough data,8,8,DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; DRUG-INDUCED LIVER INJURY; BONE DENSITY DECREASED; ANXIETY; HEPATOTOXICITY; HYPERTENSION; MATERNAL EXPOSURE DURING PREGNANCY
+149,carbamazepine,candidate,5645,enough data,8,8,DRUG-INDUCED LIVER INJURY; OSTEOPOROSIS; HEPATOTOXICITY; HYPERTENSION; ABORTION SPONTANEOUS; SUICIDAL IDEATION; MATERNAL EXPOSURE DURING PREGNANCY; DEPRESSION
+150,tretinoin,candidate,1222,enough data,8,8,HEPATOTOXICITY; DEEP VEIN THROMBOSIS; PULMONARY EMBOLISM; ABORTION SPONTANEOUS; ANXIETY; DEPRESSION; MATERNAL EXPOSURE DURING PREGNANCY; SUICIDAL IDEATION
+151,cyanocobalamin,candidate,913,enough data,8,8,OSTEOPOROSIS; DEEP VEIN THROMBOSIS; HYPERTENSION; ANXIETY; PULMONARY EMBOLISM; DEPRESSION; SUICIDAL IDEATION; MATERNAL EXPOSURE DURING PREGNANCY
+152,cetirizine,candidate,12644,enough data,9,8,DEEP VEIN THROMBOSIS; ANXIETY; DRUG-INDUCED LIVER INJURY; BONE DENSITY DECREASED; PULMONARY EMBOLISM; DEPRESSION; HYPERTENSION; SUICIDAL IDEATION
+153,medroxyprogesterone acetate,standard,5571,enough data,9,9,OSTEOPOROSIS; BONE DENSITY DECREASED; DEPRESSION; PULMONARY EMBOLISM; ABORTION SPONTANEOUS; ANXIETY; SUICIDAL IDEATION; HYPERTENSION; DEEP VEIN THROMBOSIS
+154,omeprazole,candidate,13651,enough data,11,11,HEPATOTOXICITY; DEEP VEIN THROMBOSIS; OSTEOPOROSIS; ANXIETY; PULMONARY EMBOLISM; BONE DENSITY DECREASED; HYPERTENSION; DEPRESSION; SUICIDAL IDEATION; DRUG-INDUCED LIVER INJURY; MATERNAL EXPOSURE DURING PREGNANCY
+,repaglinide,candidate,46,not enough data,,,
+,procainamide,candidate,39,not enough data,,,
+,xylometazoline,candidate,39,not enough data,,,
+,oxaprozin,candidate,38,not enough data,,,
+,tranylcypromine,candidate,33,not enough data,,,
+,nalbuphine,candidate,32,not enough data,,,
+,griseofulvin,candidate,30,not enough data,,,
+,aminocaproic acid,candidate,27,not enough data,,,
+,pimozide,candidate,27,not enough data,,,
+,imipramine,candidate,26,not enough data,,,
+,crotamiton,candidate,25,not enough data,,,
+,verteporfin,candidate,24,not enough data,,,
+,proxymetacaine,candidate,23,not enough data,,,
+,mefloquine,candidate,18,not enough data,,,
+,flunisolide,candidate,18,not enough data,,,
+,milrinone,candidate,17,not enough data,,,
+,estriol,candidate,17,not enough data,,,
+,phentolamine,candidate,14,not enough data,,,
+,betaxolol,candidate,13,not enough data,,,
+,amiloride,candidate,12,not enough data,,,
+,apomorphine,candidate,11,not enough data,,,
+,methazolamide,candidate,10,not enough data,,,
+,trifluoperazine,candidate,10,not enough data,,,
+,menadione,candidate,10,not enough data,,,
+,sertaconazole,candidate,9,not enough data,,,
+,protriptyline,candidate,9,not enough data,,,
+,tetryzoline,candidate,8,not enough data,,,
+,alfuzosin,candidate,8,not enough data,,,
+,cinchocaine,candidate,8,not enough data,,,
+,disopyramide,candidate,7,not enough data,,,
+,diflorasone,candidate,6,not enough data,,,
+,demeclocycline,candidate,6,not enough data,,,
+,tolmetin,candidate,5,not enough data,,,
+,thioridazine,candidate,4,not enough data,,,
+,estrone,candidate,3,not enough data,,,
+,procaine,candidate,2,not enough data,,,
+,fenoprofen,candidate,2,not enough data,,,
+,galantamine,candidate,2,not enough data,,,
+,phenoxybenzamine,candidate,2,not enough data,,,
+,papaverine,candidate,2,not enough data,,,
+,primaquine,candidate,2,not enough data,,,
+,sulconazole,candidate,2,not enough data,,,
+,chloramphenicol,candidate,1,not enough data,,,
+,triprolidine,candidate,1,not enough data,,,
+,metaraminol,candidate,0,not enough data,,,
+,levomepromazine,candidate,0,not enough data,,,
+,perhexiline,candidate,0,not enough data,,,
+,triflusal,candidate,0,not enough data,,,
+,nalidixic acid,candidate,0,not enough data,,,
+,isoconazole,candidate,0,not enough data,,,
+,dicoumarol,candidate,0,not enough data,,,
+,fenbufen,candidate,0,not enough data,,,
+,pyrvinium,candidate,0,not enough data,,,
+,aminohippuric acid,candidate,0,not enough data,,,
+,moxisylyte,candidate,0,not enough data,,,
+,ouabain,candidate,0,not enough data,,,
+,remoxipride,candidate,0,not enough data,,,
+,thiocolchicoside,candidate,0,not enough data,,,
+,reserpine,candidate,0,not enough data,,,
+,rosiglitazone,candidate,0,not enough data,,,
+,nomifensine,candidate,0,not enough data,,,
+,hesperetin,candidate,0,not enough data,,,
+,trioxysalen,candidate,0,not enough data,,,
+,etidronic acid,candidate,0,not enough data,,,
+,genistein,candidate,0,not enough data,,,
+,resveratrol,candidate,0,not enough data,,,
+,ethotoin,candidate,0,not enough data,,,
+,theobromine,candidate,0,not enough data,,,
+,levocabastine,candidate,0,not enough data,,,
+,piracetam,candidate,0,not enough data,,,
+,benzthiazide,candidate,0,not enough data,,,
+,oxytetracycline,candidate,0,not enough data,,,
+,oxyphenbutazone,candidate,0,not enough data,,,
+,phenindione,candidate,0,not enough data,,,
+,arachidonic acid,candidate,0,not enough data,,,
+,promazine,candidate,0,not enough data,,,
+,quinethazone,candidate,0,not enough data,,,
+,zuclopenthixol,candidate,0,not enough data,,,
+,cloperastine,candidate,0,not enough data,,,
+,metixene,candidate,0,not enough data,,,
+,bepridil,candidate,0,not enough data,,,
+,troglitazone,candidate,0,not enough data,,,
+,medrysone,candidate,0,not enough data,,,
+,iopanoic acid,candidate,0,not enough data,,,
+,hydroflumethiazide,candidate,0,not enough data,,,
+,bezafibrate,candidate,0,not enough data,,,
+,flufenamic acid,candidate,0,not enough data,,,
+,phenformin,candidate,0,not enough data,,,
+,procyclidine,candidate,0,not enough data,,,
+,sulfafurazole,candidate,0,not enough data,,,
+,adipiodone,candidate,0,not enough data,,,
+,nialamide,candidate,0,not enough data,,,
+,oxprenolol,candidate,0,not enough data,,,
+,etofenamate,candidate,0,not enough data,,,
+,nitrendipine,candidate,0,not enough data,,,
+,vidarabine,candidate,0,not enough data,,,
+,latamoxef,candidate,0,not enough data,,,
+,azlocillin,candidate,0,not enough data,,,
+,roxithromycin,candidate,0,not enough data,,,
+,acepromazine,candidate,0,not enough data,,,
+,fluspirilene,candidate,0,not enough data,,,
+,astemizole,candidate,0,not enough data,,,
+,saquinavir,candidate,0,not enough data,,,
+,chlorpropamide,candidate,0,not enough data,,,
+,corbadrine,candidate,0,not enough data,,,
+,aminophenazone,candidate,0,not enough data,,,
+,ifenprodil,candidate,0,not enough data,,,
+,pargyline,candidate,0,not enough data,,,
+,chlorprothixene,candidate,0,not enough data,,,
+,pivampicillin,candidate,0,not enough data,,,
+,clioquinol,candidate,0,not enough data,,,
+,niclosamide,candidate,0,not enough data,,,
+,gliclazide,candidate,0,not enough data,,,
+,diethylcarbamazine,candidate,0,not enough data,,,
+,monobenzone,candidate,0,not enough data,,,
+,chlorcyclizine,candidate,0,not enough data,,,
+,oxybuprocaine,candidate,0,not enough data,,,
+,bromopride,candidate,0,not enough data,,,
+,cinoxacin,candidate,0,not enough data,,,
+,betahistine,candidate,0,not enough data,,,
+,terfenadine,candidate,0,not enough data,,,
+,prenylamine,candidate,0,not enough data,,,
+,rolitetracycline,candidate,0,not enough data,,,
+,tyloxapol,candidate,0,not enough data,,,
+,zomepirac,candidate,0,not enough data,,,
+,rimexolone,candidate,0,not enough data,,,
+,cefalotin,candidate,0,not enough data,,,
+,difenidol,candidate,0,not enough data,,,
+,lymecycline,candidate,0,not enough data,,,
+,tolbutamide,candidate,0,not enough data,,,
+,levamisole,candidate,0,not enough data,,,
+,minaprine,candidate,0,not enough data,,,
+,lomefloxacin,candidate,0,not enough data,,,
+,canrenoic acid,candidate,0,not enough data,,,
+,sulfamerazine,candidate,0,not enough data,,,
+,rescinnamine,candidate,0,not enough data,,,
+,sulfadimidine,candidate,0,not enough data,,,
+,carbachol,candidate,0,not enough data,,,
+,ritodrine,candidate,0,not enough data,,,
+,berberine,candidate,0,not enough data,,,
+,flumetasone,candidate,0,not enough data,,,
+,trimetazidine,candidate,0,not enough data,,,
