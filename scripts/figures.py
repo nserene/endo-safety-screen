@@ -73,8 +73,16 @@ def heatmap(signals, ranked, priority):
     standard = enough[enough["group"] == "standard"]["drug_name"].tolist()
     rows = candidates + standard
 
-    hits = signals[signals["signal"] & signals["priority"] & signals["drug_name"].isin(rows)]
-    grid = hits.pivot(index="drug_name", columns="reaction", values="ror").reindex(index=rows, columns=priority)
+    cells = signals[signals["priority"] & signals["drug_name"].isin(rows)].set_index(["drug_name", "reaction"])
+
+    def table(column):
+        return cells[column].unstack().reindex(index=rows, columns=priority)
+
+    ror = table("ror")
+    is_signal = table("signal").fillna(False).astype(bool)
+    # Lower CI above 1 but fewer than 3 reports: not a signal, but worth seeing.
+    near_miss = (table("ci_lower") > 1) & (table("a") < 3) & ~is_signal
+    grid = ror.where(is_signal)  # only signals get a colour
 
     fig = plt.figure(figsize=(9, 11.5))
     ax = fig.add_axes([0.28, 0.25, 0.65, 0.68])
@@ -84,16 +92,28 @@ def heatmap(signals, ranked, priority):
     cmap.set_bad(SURFACE)
     image = ax.imshow(grid.values, cmap=cmap, norm=LogNorm(vmin=1, vmax=vmax), aspect="auto")
 
-    # Cell borders and ROR labels on signal cells
+    # Cell borders and an ROR label in every cell that has one.
+    # Signals: dark text on the coloured fill. Not signals: grey text, no fill.
     ax.set_xticks(np.arange(-0.5, len(priority)), minor=True)
     ax.set_yticks(np.arange(-0.5, len(rows)), minor=True)
     ax.grid(which="minor", color=GRID, linewidth=0.6)
     ax.tick_params(which="minor", length=0)
-    for (i, j), value in np.ndenumerate(grid.values):
-        if not np.isnan(value):
+
+    def label(value):
+        if value < 1:
+            return f"{value:.2f}"
+        return f"{value:.1f}" if value < 10 else f"{value:.0f}"
+
+    for (i, j), value in np.ndenumerate(ror.values):
+        if np.isnan(value):
+            continue
+        if is_signal.iat[i, j]:
             dark = np.log(value) / np.log(vmax) > 0.45
-            ax.text(j, i, f"{value:.1f}" if value < 10 else f"{value:.0f}",
-                    ha="center", va="center", fontsize=6.5, color="white" if dark else TEXT)
+            ax.text(j, i, label(value), ha="center", va="center", fontsize=6.5,
+                    fontweight="bold", color="white" if dark else TEXT)
+        else:
+            text = label(value) + ("*" if near_miss.iat[i, j] else "")
+            ax.text(j, i, text, ha="center", va="center", fontsize=6, color=TEXT_SECONDARY)
 
     # Divider between candidates and standard drugs
     ax.axhline(len(candidates) - 0.5, color=TEXT, linewidth=1.5)
@@ -115,9 +135,10 @@ def heatmap(signals, ranked, priority):
     bar.set_label("Reporting odds ratio (log scale)", color=TEXT_SECONDARY)
     bar.outline.set_visible(False)
 
-    ax.set_title("Priority side-effect signals: top candidates vs standard treatments", pad=36)
-    ax.text(0, 1.008, "Coloured cells are signals (at least 3 reports and lower 95% CI above 1); "
-            "blank means no signal.\nWomen aged 12–35, FAERS.",
+    ax.set_title("Priority side-effect signals: top candidates vs standard treatments", pad=44)
+    ax.text(0, 1.006, "Numbers are reporting odds ratios (women aged 12–35, FAERS).\n"
+            "Coloured = signal (at least 3 reports and lower 95% CI above 1). Grey = not a signal.\n"
+            "* = lower 95% CI above 1 but fewer than 3 reports. Blank = no reports.",
             transform=ax.transAxes, fontsize=8, color=TEXT_SECONDARY)
     fig.savefig(FIGURES / "heatmap_priority_signals.png", dpi=DPI)
     plt.close(fig)
