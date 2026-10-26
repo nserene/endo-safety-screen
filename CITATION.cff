@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Endometriosis Safety Screen: FAERS side-effect signals for endometriosis drug candidates in women aged 12–35"
+type: software
+authors:
+  - family-names: Salem
+    given-names: Natalia
+repository-code: "https://github.com/nserene/endo-safety-screen"
+license: MIT
+date-released: 2026-10-22
+keywords:
+  - endometriosis
+  - pharmacovigilance
+  - FAERS
+  - openFDA
+  - drug repositioning
+  - reporting odds ratio
