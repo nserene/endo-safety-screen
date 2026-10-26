@@ -2,7 +2,7 @@
 
 This project screens FDA side-effect reports for drugs that have been proposed as new endometriosis treatments, and compares them with the treatments patients already use. It focuses on women aged 12–35 and on side effects that matter for years of use, to produce a prioritised list of candidates for further research.
 
-> **This is a prioritised research list based on voluntary reports. It is not medical advice and does not show that any drug is safe.**
+!! **This is a prioritized research list based on voluntary reports. It is not medical advice and does not show that any drug is safe.**
 
 ## Data sources
 
@@ -81,3 +81,4 @@ This takes a few minutes. openFDA responses are saved in `data/raw/openfda/`, so
 ## How to cite
 
 See [`CITATION.cff`](CITATION.cff), or use the "Cite this repository" button on GitHub.
+DOI Links: https://doi.org/10.5281/zenodo.23654978
